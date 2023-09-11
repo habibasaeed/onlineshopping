@@ -1,0 +1,18 @@
+ul>li{
+    list-style:none;
+}
+#mennav,#womennav{
+    background-color:#F3D8C2;
+    display:flex;
+    justify-content:space-evenly;
+    min-height:5vh;
+    align-items:center;
+}
+ul>li>a{
+    color:black;
+    font-weight:bold;
+    text-decoration:none;
+}
+ul>li>a:hover{
+    color:rgb(164 154 154);
+}

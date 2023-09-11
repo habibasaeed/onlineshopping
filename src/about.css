@@ -1,0 +1,16 @@
+.k{
+    background-color: white;
+    width: 70%;
+    height: 40%;
+    border: 1px solid black;
+flex-direction: column;
+align-content: center;
+display: flex;
+margin: auto;
+opacity: 0.8;
+border-radius: 5px;
+text-align: start;
+}
+.c{
+    margin: 20px 20px;
+}

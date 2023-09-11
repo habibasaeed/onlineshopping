@@ -1,0 +1,22 @@
+ul>li{
+    list-style:none;
+}
+ul{
+    background-color:lightgrey;
+    display:flex;
+    justify-content:space-evenly;
+    min-height:5vh;
+    align-items:center;
+}
+ul>li>a{
+    color:black;
+    font-weight:bold;
+    text-decoration:none;
+}
+ul>li>a:hover{
+    color:rgb(164 154 154);
+}
+h1{
+    font-size: xx-large;
+    font-style:initial;
+}

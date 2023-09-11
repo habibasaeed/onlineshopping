@@ -1,0 +1,16 @@
+#cartbody{
+    /*background-image: url(./images/cart.jpg);
+    */
+    background-size:cover ;
+    background-color: aliceblue;
+width: 50%;
+height: 50%;
+margin: auto;
+opacity: .8;
+border-radius: 5px;
+text-align: start;
+
+}
+#txt{
+    margin: 30px 10px;
+}
